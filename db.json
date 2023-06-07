@@ -1,0 +1,211 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Gentle",
+      "image": "https://thenaturebook.vn/mediacenter/media/images/2640/products/2640/3104/s1000_1000/zyro-image-1677838345.png",
+      "price": "3",
+      "type": "SkinCare"
+    },
+    {
+      "id": 2,
+      "name": "Cerave",
+      "image": "https://assets.unileversolutions.com/v1/63317183.png",
+      "price": "4",
+      "type": "SkinCare"
+    },
+    {
+      "id": 3,
+      "name": "Cosrx Low",
+      "image": "https://lareskincare.com/wp-content/uploads/2022/04/Rua-mat.png",
+      "price": "2",
+      "type": "SkinCare"
+    },
+    {
+      "id": 4,
+      "name": "Simple",
+      "image": "https://cdn.onshop.asia/images/nha-thuoc-dai-minh/w_2000,h_2000/9-1586512107.png",
+      "price": "4",
+      "type": "SkinCare"
+    },
+    {
+      "id": 5,
+      "name": "Roche-Posay",
+      "image": "https://product.hstatic.net/1000290281/product/8888176027357_-_bio_essence_-_srm_da_dau_100g_17dd8bf49dc94666a6d753ee4baee447.png",
+      "price": "1",
+      "type": "BeautyCare"
+    },
+    {
+      "id": 6,
+      "name": "Green Tea",
+      "image": "https://thenaturebook.vn/mediacenter/media/images/2640/products/2640/3104/s1000_1000/sua-rua-mat-nghe-1646188821.png",
+      "price": "4",
+      "type": "BeautyCare"
+    },
+    {
+      "id": 7,
+      "name": "SVR",
+      "image": "https://myphamsnp.vn/images/product/product_s394.png",
+      "price": "2",
+      "type": "BeautyCare"
+    },
+    {
+      "id": 8,
+      "name": "Facial",
+      "image": "https://myphamngoainhap.vn/media/sanpham/1614790800/dermalogica_active_clay_cleanser.png",
+      "price": "4",
+      "type": "BeautyCare"
+    },
+    {
+      "id": 9,
+      "name": "Neutrogena",
+      "image": "https://assets.unileversolutions.com/v1/63317272.png",
+      "price": "2",
+      "type": "BabyCare"
+    },
+    {
+      "id": 10,
+      "name": "Kiehl's",
+      "image": "https://cdn.dangcapphaidep.vn/wp-content/uploads/2018/11/gold-elements-intensive-multi-task-facial-cleanser.png",
+      "price": "5",
+      "type": "BabyCare"
+    },
+    {
+      "id": 11,
+      "name": "Hada Labo",
+      "image": "https://pos.nvncdn.net/8474b8-24031/ps/20210917_KcUPIAkGY7dxmbhcdtefEHrD.png",
+      "price": "4",
+      "type": "BabyCare"
+    },
+    {
+      "id": 12,
+      "name": "Naruko",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoCPnMiT6bN4Jgm6OuE5f9R3m602MnwkDMqw&usqp=CAU",
+      "price": "4",
+      "type": "BabyCare"
+    },
+    {
+      "id": 13,
+      "name": "La Roche",
+      "image": "https://product.hstatic.net/1000290281/product/8888176027357_-_bio_essence_-_srm_da_dau_100g_17dd8bf49dc94666a6d753ee4baee447.png",
+      "price": "4",
+      "type": "BabyCare"
+    },
+    {
+      "id": 14,
+      "name": "Foaming",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3iM7KjRl2i1ZOm_4kgDpjTaHeNrvhEZMAPGNnCxEeISRxW70byQsYyEVsbhrksH0Da7c&usqp=CAU",
+      "price": "2",
+      "type": "BeautyCare"
+    },
+    {
+      "id": 15,
+      "name": "Sebiaclear",
+      "image": "https://vn-live-01.slatic.net/p/8b1aecde639289e4d39c946613f2d1c2.png",
+      "price": "4",
+      "type": "BeautyCare"
+    },
+    {
+      "id": 16,
+      "name": "Calendula",
+      "image": "https://shynhbeauty.vn/wp-content/uploads/2020/02/DSC3923.png",
+      "price": "1",
+      "type": "BabyCare"
+    },
+    {
+      "id": 17,
+      "name": "Charcoal",
+      "image": "https://thenaturebook.vn/mediacenter/media/images/2640/products/2640/3104/s1000_1000/sua-rua-mat-nghe-1646188821.png",
+      "price": "3",
+      "type": "SkinCare"
+    },
+    {
+      "id": 18,
+      "name": "Cetaphil",
+      "image": "https://acnes.com.vn/wp-content/uploads/2022/08/4.png",
+      "price": "4",
+      "type": "BabyCare"
+    },
+    {
+      "id": 19,
+      "name": "Hada Labo",
+      "image": "https://inulife.vn/wp-content/uploads/2020/10/H%C3%ACnh-SRM1.png",
+      "price": "2",
+      "type": "SkinCare"
+    },
+    {
+      "id": 20,
+      "name": "Murad Essential-C",
+      "image": "https://provence.vn/wp-content/uploads/2017/02/purite-facial-gel-lavenderaloevera.png",
+      "price": "4",
+      "type": "SkinCare"
+    }
+  ],
+  "users": [
+    {
+      "email": "buivanvu@gmail.com",
+      "password": "$2a$10$DNytn6O3OtRt36/XD9q6e.XeCx1TGGGUMPfFwpeZJuuR1peS47Aku",
+      "id": 1
+    },
+    {
+      "email": "admin1@gmail.com",
+      "password": "$2a$10$99HhunaftIovTDtHQOdZEecbGrt48Tf3o8ZVN.BhokrINOzAJ9IE.",
+      "id": 2
+    },
+    {
+      "email": "admin@fdsf",
+      "password": "$2a$10$uWjX/MtWy0s9MLoMkw9rxufz7fO919dha8FuhQNmFYaHLR1qwi2kC",
+      "id": 3
+    },
+    {
+      "email": "vuvbit811200@gmail.com",
+      "password": "$2a$10$aZHE7CJDDdODWjhbb/g5oON5aqL0U1K99FKrDux0ABgtx5k0yza6e",
+      "id": 5
+    },
+    {
+      "email": "vuvbit8112000@gmail.com",
+      "password": "$2a$10$N6Spj.noTIxaYJ745MESuOzsO3di0HBBPLYZEGRe/utMAJbmzVdCO",
+      "id": 6
+    },
+    {
+      "email": "vuvbi111t811200@gmail.com",
+      "password": "$2a$10$j3bvrO4zHVA.NErYMA5Mv.KoQIWZ7pbbFPxFORGoKcM7ovlQawiRK",
+      "id": 7
+    },
+    {
+      "email": "vuvbit811200dsadsa@gmail.com",
+      "password": "$2a$10$Lj.7LL3N3ExEzaKH63yXBOQSfaubhHvA2FKCmEeHcsV/k54dznhxi",
+      "id": 8
+    },
+    {
+      "email": "vuvbit81120dsds0@gmail.com",
+      "password": "$2a$10$DtVZn/Y.Ffj9Y9D8UyHtAODPuftZgaxLRG3cRFukQpQqIX0Lzbh6q",
+      "id": 9
+    },
+    {
+      "email": "vuvbixsdst811200@gmail.com",
+      "password": "$2a$10$51OGAHLPdCtGBhPa5bDs1uMgRBfJzOf.Ot43Q3pXnl8KYQYr3zUQi",
+      "id": 10
+    },
+    {
+      "email": "vuvbit811200sdsds@gmail.com",
+      "password": "$2a$10$MlQ27m.caWsIC2sJqt.JyuqOQbMdrZ30UeVpgq86pUsy1d9Qqei/q",
+      "id": 11
+    },
+    {
+      "email": "vuvbit81120dsdsdsds0@gmail.com",
+      "password": "$2a$10$YDHcPTXPtE41j22004yQr.Mgre7iuLV7KUQ4T1ETk2EDaRekzTHWy",
+      "id": 12
+    },
+    {
+      "email": "vuvbit811200dsds@gmail.com",
+      "password": "$2a$10$NrRRzzHxXqBOtvgNyhtL4eBh.mUj/Z9mMOo1wkzitMAXNBaAG6Dj6",
+      "id": 13
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$Fw.EoHvVGLSXaZ9vIezpW.l1DDeRUdANeNBY5/IcGO68UZx4NyVe6",
+      "id": 14
+    }
+  ]
+}
